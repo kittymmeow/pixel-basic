@@ -12,12 +12,12 @@ glyph coverage is approximately the basic latin unicode block (alphanumeric char
 for clean pixel rounding, use font sizes in multiples of 6px and turn font smoothing off if available
 
 ## combined vs single font families
-installing the "combined" font files will allow you to utilize each design format by changing the font weight under a single font family. for applications that support numberical font weight (such as CSS), 3px is 300, 4px is 400, and 5px is 500. 
+installing the "combined" font files will allow you to utilize each design format by changing the font weight under a single font family. for applications that support numerical font weight (such as CSS), 3px is 300, 4px is 400, and 5px is 500. 
 
 some applications (such as OBS text sources) cannot utilize font weight to modify text display, therefore i have also provided separate font files for each glyph design in the "single" directory
 
 ## filetypes
-for local installation, use the otf files. for web use, use woff2.
+for local installation, use the otf files. for web use, i have also provided woff2 versions of the combined font family.
 
 ## restrictions and issue resolution
 no usage restrictions. this font was made for personal use so there may be issues or quirks, breaking issues i can try my best to fix but some things may be beyond my skill level
