@@ -4,7 +4,7 @@ pixel basic, a minimalist low detail pixel font
 ## design
 pixel basic is provided in 3 different glyph designs - 3px, 4px, and 5px, corresponding to the number of pixels tall each glyph was designed to look like. 
 
-5px is best for numbers, 4px and 5px for general readability, and 3px for pseudo-lowercase and annotation. uppercase and lowercase letters use the same glyphs in all 3 designs.
+4px and 5px are best for general readability, 3px is most useful for pseudo-lowercase and annotation as some glyphs begin to become hard to read at this scale. uppercase and lowercase letters use the same glyphs in all 3 designs.
 
 glyph coverage is approximately the basic latin unicode block (alphanumeric characters and limited punctuation and symbols)
 
