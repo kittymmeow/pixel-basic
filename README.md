@@ -12,5 +12,8 @@ installing the "combined" font files will allow you to utilize each design forma
 
 some applications (such as OBS text sources) cannot utilize font weight to modify text display, therefore i have also provided separate font files for each glyph design in the "single" directory
 
+## filetypes
+for local installation, use the otf files. for web use, use woff2.
+
 ## restrictions and issue resolution
 no usage restrictions. this font was made for personal use so there may be issues or quirks, breaking issues i can try my best to fix but some things may be beyond my skill level
